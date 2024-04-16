@@ -1,4 +1,12 @@
-
+/* -------------------------------------------------------*
+9 * FATEC-São Caetano do Sul Estrutura de Dados     *
+10 *                                     Avaliação N1 - Parte I       *
+11 * Objetivo: Controlar Estoque de produtos            *
+12 *                                                                              *
+13 * Autores: Apollo Henrique Moreira  e Murilo Enrico Rodrigues Carvalho 
+14 *                                                   Data:16/04/2024*
+15 *------------------------------------------------------*
+16 */
 
 #include <stdio.h>
 #include <stdlib.h>
